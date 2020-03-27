@@ -1,0 +1,16 @@
+Efficient Code
+---
+---
+
+Knowing how to write code that runs efficiently is another essential skill in software development. Optimizing code to be more efficient can mean making it:
+
+* Execute faster
+* Take up less space in memory/storage
+
+The project you're working on would determine which of these is more important to optimize for your company or product. When we are performing lots of different transformations on large amounts of data, this can make orders of magnitudes of difference in performance.
+
+*Tips*:
+
+[What makes sets faster than lists?](https://stackoverflow.com/questions/8929284/what-makes-sets-faster-than-lists/8929445#8929445)
+
+Using vectorized operations and more efficient data structures can optimize your code.
