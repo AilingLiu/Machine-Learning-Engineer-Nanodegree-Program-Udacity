@@ -5,7 +5,7 @@ Procedural vs Object-Oriented Programming
 **Objects are defined by characteristics and actions**
 
 Here is a reminder of what is a characteristic and what is an action.
-![what_is_object]('https://github.com/AilingLiu/Machine-Learning-Engineer-Nanodegree-Program-Udacity/blob/master/2.4%20Object%20Oriented%20Programming/Images/what_is_object.png')
+![what_is_object](Images/what_is_object.png)
 
 **Characteristics and Actions in English Grammar**
 
