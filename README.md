@@ -26,3 +26,10 @@ Software Engineering Practices Pt1
 * Improve code efficiency
 * Add effective documentation
 * Use version
+
+
+Software Engineering Practices Part II
+---
+* Testing
+* Logging
+* Code reviews
