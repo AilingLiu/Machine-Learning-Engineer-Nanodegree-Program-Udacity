@@ -1,0 +1,14 @@
+Procedural vs Object-Oriented Programming
+---
+---
+
+**Objects are defined by characteristics and actions**
+
+Here is a reminder of what is a characteristic and what is an action.
+![what_is_object]('https://github.com/AilingLiu/Machine-Learning-Engineer-Nanodegree-Program-Udacity/blob/master/2.4%20Object%20Oriented%20Programming/Images/what_is_object.png')
+
+**Characteristics and Actions in English Grammar**
+
+Another way to think about characteristics and actions is in terms of English grammar. A characteristic would be a noun. On the other hand, an action would be a verb.
+
+Let's pick something from the real-world: a dog. A few characteristics could be the dog's weight, color, breed, and height. These are all nouns. What actions would a dog take? A dog can bark, run, bite and eat. These are all verbs.
