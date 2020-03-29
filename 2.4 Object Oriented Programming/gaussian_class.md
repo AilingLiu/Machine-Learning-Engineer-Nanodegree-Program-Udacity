@@ -5,16 +5,13 @@ Gaussian Class
 Resources for Review
 ---
 
-The example in the next part of the lesson assumes you are familiar with Gaussian and binomial distributions.
+If you would like to review the Gaussian (normal) distribution and binomial distribution, here are a few resources:
 
-Here are a few formulas that might be helpful:
+This free Udacity course, [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101), has a lesson on Gaussian distributions as well as the Binomial distribution.
 
-**Gaussian Distribution Formulas**
+This free course, [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827), also has a Gaussian distributions lesson.
 
-probability density function
+Here are the wikipedia articles:
 
-\begin{equation}
-
-P(x) = \frac{1}{{\sigma \sqrt {2\pi }}}
-
-\end{equation}
+[Gaussian Distributions Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
+[Binomial Distributions Wikipedia](https://en.wikipedia.org/wiki/Binomial_distribution)
