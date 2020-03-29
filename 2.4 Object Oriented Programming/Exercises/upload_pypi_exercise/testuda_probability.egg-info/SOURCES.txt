@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+testuda_probability/Binomialdistribution.py
+testuda_probability/Gaussiandistribution.py
+testuda_probability/Generaldistribution.py
+testuda_probability/__init__.py
+testuda_probability.egg-info/PKG-INFO
+testuda_probability.egg-info/SOURCES.txt
+testuda_probability.egg-info/dependency_links.txt
+testuda_probability.egg-info/not-zip-safe
+testuda_probability.egg-info/top_level.txt
