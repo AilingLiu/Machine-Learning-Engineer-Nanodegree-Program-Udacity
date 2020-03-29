@@ -13,4 +13,8 @@ Here are a few formulas that might be helpful:
 
 probability density function
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i %2B\pi} =x%2B1">
+\begin{equation}
+
+P(x) = \frac{1}{{\sigma \sqrt {2\pi }}}
+
+\end{equation}
