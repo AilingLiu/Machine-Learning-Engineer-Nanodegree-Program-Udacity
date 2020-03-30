@@ -85,3 +85,7 @@ Notice the following regarding the information included in the HTTP messages sen
 
 * Often user's data will need to be in a CSV or JSON format with a specific ordering of the data that's dependent upon the model used.
 * Often predictions will be returned in CSV or JSON format with a specific ordering of the returned predictions dependent upon the model used.
+
+Summary Quize
+![](./Images/quiz1.png)
+![](./Images/quiz2.png)
