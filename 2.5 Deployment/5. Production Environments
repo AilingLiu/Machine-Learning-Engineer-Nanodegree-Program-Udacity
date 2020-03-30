@@ -15,7 +15,7 @@ When we discussed the production environment, the endpoint was defined as the **
 * Receives predictions back from the model based upon that user data.
 
 **Model, Application, and Endpoint**
-![](.\Images\endpointprogram-1.png)
+![](./Images/endpointprogram-1.png)
 
 One way to think of the endpoint that acts as this interface, is to think of a Python program where:
 
@@ -28,7 +28,7 @@ The image above depicts the association between a Python program and the endpoin
 * the model: beginning on line 14 function definition for ml_model
 * the application: Python program web_app.py
 
-![](.\Images\endpointprogram-2.png)
+![](./Images/endpointprogram-2.png)
 
 Using this example above notice the following:
 
@@ -62,7 +62,7 @@ The HTTP request that’s sent from your application to your model is composed o
 * Message (Data or Body)
     * The final part is the message (data or body); for deployment will contain the user’s data which is input into the model.
 
-![](.\Images\httpmethods.png)
+![](./Images/httpmethods.png)
 
 The HTTP response sent from your model to your application is composed of three parts:
 
@@ -87,5 +87,5 @@ Notice the following regarding the information included in the HTTP messages sen
 * Often predictions will be returned in CSV or JSON format with a specific ordering of the returned predictions dependent upon the model used.
 
 Summary Quize
-![](./Images/quiz1.png)
-![](./Images/quiz2.png)
+![](./Images/quiz1.PNG)
+![](./Images/quiz2.PNG)
