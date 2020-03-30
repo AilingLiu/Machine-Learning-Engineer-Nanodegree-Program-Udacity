@@ -33,3 +33,19 @@ Software Engineering Practices Part II
 * Testing
 * Logging
 * Code reviews
+
+Object Oriented Programming
+---
+* Object-oriented programming syntax
+
+  * procedural vs object-oriented programming
+  * classes, objects, methods and attributes
+  * coding a class
+  * magic methods
+  * inheritance
+
+* Using object-oriented programming to make a Python package
+
+  * making a package
+  * tour of scikit-learn source code
+  * putting your package on PyPi
