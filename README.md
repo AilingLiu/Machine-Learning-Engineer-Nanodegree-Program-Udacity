@@ -49,3 +49,6 @@ Object Oriented Programming
   * making a package
   * tour of scikit-learn source code
   * putting your package on PyPi
+
+Introduction of Deployment and Cloud Computing
+---
