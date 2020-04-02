@@ -52,3 +52,16 @@ Object Oriented Programming
 
 Introduction of Deployment and Cloud Computing
 ---
+
+Building model in SageMaker
+---
+
+Deploying model in SageMaker
+---
+Key concepts:
+
+- application (web app)
+- endpoints
+- api gateway
+- lambda function
+- model
