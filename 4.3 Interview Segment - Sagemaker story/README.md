@@ -30,3 +30,25 @@ Learn about how SageMaker has developed over time, in response to signals from t
 * sagemaker has a usage for everyone
 * iso, gdpr... all the compliance are integrated in SageMaker
 * sagemaker has jupyter notebook and GPU for udacity students to use
+
+**How do you label data at scale?**
+[video](https://www.youtube.com/watch?v=G_E5N6k2knA)
+
+* if you have lots of images, first manually label a small datasets, then let your ml model to learn how to label the rest in the future. This method is called active learning.
+* 70% of savings can be generated for customer by using SageMaker groundtruth
+
+**What predictions do you have for the future of this technology? What features might be prioritized in the next few years?**
+[video](https://www.youtube.com/watch?v=git73JsQC1Y)
+
+* from customer needs to products made
+* heavily investing into the 'end to end' lifecycle
+* deploy model: have real time end point web app; use for batch processing; most popular, get ml model close to users as much as possible
+* some building ideas: put energy on compiling a complex heavy model into a light-weight model where you can fit it into small devices
+
+**Do you have advice for someone who wants to become an ML engineer?**
+[video](https://www.youtube.com/watch?v=Wgq4eukacqE)
+
+* stay hungry, stay fool
+* follow the key influencers, know their research interests
+* keep learning courses, you get knowledge and also keep up with the market trends. Find your interests among these to focus and develop.
+* work with online tool, documentations (such as sagemaker repo), courses, etc. to learn correctly, and fast
