@@ -36,4 +36,4 @@ The prediction is submitted under this competition[Udacity+Arvato: Identify Cust
 [Machine Learning Capstone project rubrics](https://review.udacity.com/#!/rubrics/2541/view)
 
 ## Documentation
-`Final_Report.pdf`
+[Project Report](project_report.pdf)
